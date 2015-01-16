@@ -15,6 +15,7 @@
 3.最新产品功能
 4.产品分类图片功能
 
-更多问题请到http://www.yiqicms.com查看或者咨询作者：liteng.org
+更多问题请到：http://www.yiqicms.com
+查看或者咨询作者：http://www.liteng.org
 
 
