@@ -1,0 +1,218 @@
+﻿*
+{
+	margin:0px;
+	padding:0px;
+}
+/*common start*/
+body
+{
+	font-size:12px;
+	line-height:22px;
+}
+img
+{
+	border:0px;
+}
+li
+{
+	list-style-type:none;
+}
+a:link,a:visited
+{
+	color:#333;
+	text-decoration:none;
+}
+a:hover
+{
+	text-decoration:underline;
+}
+.fl
+{	
+	float:left;
+}
+.fr
+{	
+	float:right;
+}
+.textcenter
+{
+	text-align:center;
+}
+.clear
+{
+	overflow:hidden;
+	clear:both;
+	line-height:12px;
+}
+.line
+{
+	border-bottom:1px solid #e7809b;
+	line-height:1px;
+}
+.lineb
+{
+	border-bottom:5px solid #e5003e;
+	line-height:5px;
+	clear:both;	
+}
+.combox
+{
+    background:#fff;
+    position:relative;
+    _width:100%;/*for IE6*/
+}
+
+.combox h2,#content h1
+{
+	background:url('h2left.gif') no-repeat 0px 6px;
+	font-size:12px;
+	font-weight:bold;
+	color:#d8335f;
+	line-height:26px;
+	text-indent:15px;
+	border-bottom:3px #d8335f solid;
+}
+.combox h2 .more
+{
+	float:right;
+	font-weight:normal;
+}
+.combox .content
+{
+	padding:10px;
+	overflow:hidden;
+}
+
+.comboxb
+{
+	border:1px solid #e7809b;
+    background:#fff;
+    position:relative;
+    _width:100%;/*for IE6*/
+}
+
+.comboxb h2
+{
+	background:#d8335f url('h2left2.gif') no-repeat 0px 6px;
+	font-size:12px;
+	font-weight:bold;
+	color:#fff;
+	line-height:26px;
+	text-indent:15px;	
+}
+.comboxb h2 .more
+{
+	float:right;
+	font-weight:normal;
+}
+.comboxb .content
+{
+	padding:10px;
+	overflow:hidden;
+	background:#fbebef;
+}
+/*common end*/
+
+
+.wrap
+{
+	width:960px;
+	margin:auto;
+}
+.header
+{
+	
+}
+.header .logo
+{
+	clear:both;
+}
+.header .logo h1
+{
+	font-size:36px;
+	line-height:40px;
+}
+.menu
+{
+	overflow:hidden;
+	height:26px;
+	line-height:26px;
+	color:#fff;
+	font-size:15px;
+	font-weight:bold;
+	float:right;
+	clear:both;
+}
+.menu .hover
+{
+	background:#e5003e;
+	color:#fff;
+}
+.menu .hover a
+{
+	color:#fff;
+}
+.menu ul li 
+{
+	float:left;
+	padding:0px 20px;
+	text-align:center;
+	border-right:1px solid #e5003e;
+}
+.menu ul li a
+{
+	color:#e5003e;
+}
+.slide
+{
+}
+.main
+{
+	
+}
+.mainleft
+{
+	float:left;
+	width:430px;
+}
+.mainright
+{
+	float:right;
+	width:510px;
+}
+.mainside
+{	
+	float:left;
+	width:230px;
+}
+.mainbody
+{
+	float:right;
+	width:710px;
+}
+#categories
+{
+	width:205px;
+	float:right;
+}
+#contact
+{
+	width:205px;
+	float:left;
+}
+
+.thumb
+{
+	float:left;
+	width:130px;
+	text-align:center;
+}
+.thumb img
+{
+	width:120px;
+	height:100px;
+}
+.footer
+{
+	text-align:center;
+}
